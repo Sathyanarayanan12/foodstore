@@ -1,0 +1,7 @@
+.bg-image{
+    background-image: url("https://wallpapers.com/images/featured/food-4k-1pf6px6ryqfjtnyr.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: brown;
+    background-size: cover;
+}
